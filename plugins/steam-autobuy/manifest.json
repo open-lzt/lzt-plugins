@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "name": "steam-autobuy",
+  "version": "1.0.0",
+  "description": "Автопокупка Steam-аккаунтов: узлы steam.search + steam.fast_buy (бюджет, dry_run).",
+  "entry": "plugin.py",
+  "requirements": []
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "plugins": [
+    {
+      "name": "steam-autobuy",
+      "version": "1.0.0",
+      "description": "Автопокупка Steam-аккаунтов: поиск с фильтрами и бюджетом + покупка (steam.search, steam.fast_buy). dry_run включён по умолчанию.",
+      "source_url": "https://raw.githubusercontent.com/open-lzt/lzt-plugins/main/dist/steam-autobuy.zip",
+      "requirements": []
+    }
+  ]
+}
